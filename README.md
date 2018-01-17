@@ -11,9 +11,7 @@ The code is comprised of functions that perform small, very specific tasks, show
 - Camel/Pascal case strings.
 - etc
 
-Each function solves a specific, but often occurring coding problem, providing the most efficient solution possible. The code is throughly tested and exhaustively documented, with examples and explanations of every function and concept.
-
-The goal is to help other programmers with coding problem's I've had in the past, showing them the formulas and techniques I've developed for solving these tricky, often occurring coding problems.
+The goal is to help programmers with coding problem's I've had in the past, showing them the formulas and techniques I've developed for solving these tricky, often occurring coding problems.
 
 
 # It's Free
@@ -24,3 +22,8 @@ To make this code as easy to use as possible, all code is licensed with the open
 # Language
 
 Everything is written in CSharp (C#), some code specifically developed for [Unity](https://unity3d.com/). However, every concept is heavily documented and explains, allowing you to transpose the logic/formulas used into any language.
+
+
+# Disclaimer
+
+This is not an officially supported Google product. It a free educational resource developed by me: [lwills@google.com](mailto:lwills@google.com).
